@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  ![Capa](https://github.com/desireecvp/ignitefeed-typescript/assets/147721056/c899877f-584a-4a2a-8588-17838daec03b)
+  <img src="https://github.com/desireecvp/ignitefeed-typescript/assets/147721056/c899877f-584a-4a2a-8588-17838daec03b"/>
 </p>
 
 ## 🚀 Tecnologias

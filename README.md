@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="Ignite Feed" src=".github/capa.png" width="100%">
+  ![Capa](https://github.com/desireecvp/ignitefeed-typescript/assets/147721056/c899877f-584a-4a2a-8588-17838daec03b)
 </p>
 
 ## 🚀 Tecnologias
